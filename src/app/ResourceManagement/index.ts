@@ -1,0 +1,1 @@
+export * from './resource-board/resource-board.component';
